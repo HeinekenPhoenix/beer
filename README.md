@@ -1,2 +1,2 @@
-# wild
+# beer
 first homework
